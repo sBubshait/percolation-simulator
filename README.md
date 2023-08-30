@@ -5,6 +5,17 @@ Estimate Percolation Thresholds using Monte Carlo Simulations in Java!
 
 Welcome to the Percolation Simulator! 🚀 This project uses the Weighted Quick Union with Path Compression algorithm to estimate percolation thresholds.
 
+## Percolation Examples
+
+Here are two examples of percolation simulations:
+
+**Percolation Example 1: Percolates**
+![Percolation Example 1](https://github.com/sBubshait/percolation-simulator/assets/44058159/eb75a715-2443-4e3f-920c-065abd75c306)
+
+**Percolation Example 2: Does Not Percolate**
+![Percolation Example 2](https://github.com/sBubshait/percolation-simulator/assets/44058159/08f31afa-4ab9-4669-9a9c-128ce2b5e20a)
+
+
 ## Usage
 
 To simulate a single percolation, you'll want to use `Percolation.java`. Make sure you've compiled the file and then execute it.
